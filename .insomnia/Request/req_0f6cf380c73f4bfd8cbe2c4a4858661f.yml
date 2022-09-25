@@ -1,0 +1,21 @@
+_id: req_0f6cf380c73f4bfd8cbe2c4a4858661f
+type: Request
+parentId: fld_7b89d74659eb45d0bbed5bf57516760d
+modified: 1664075338118
+created: 1664074698199
+url: "{{ _.baseURL }}/courses/ba4bb412-e788-4f7b-8ac3-fea63944ce0c"
+name: Index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664074698199
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

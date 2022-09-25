@@ -1,0 +1,21 @@
+_id: req_ab16e5d44e42484aad47f900ac0ebb0c
+type: Request
+parentId: fld_7b89d74659eb45d0bbed5bf57516760d
+modified: 1664075330725
+created: 1664075323459
+url: "{{ _.baseURL }}/courses/"
+name: Show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664074698149
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
